@@ -1,0 +1,14 @@
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/bin/Debug/netstandard2.0/BeerMarket.deps.json
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/bin/Debug/netstandard2.0/BeerMarket.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/bin/Debug/netstandard2.0/BeerMarket.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/Views/BeerDetailsPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/Views/BeerListPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/BeerMarket.csproj.CoreCompileInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/BeerMarket.AssemblyInfoInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/BeerMarket.AssemblyInfo.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/BeerMarket.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/BeerMarket.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket/obj/Debug/netstandard2.0/BeerMarket.csprojResolveAssemblyReference.cache

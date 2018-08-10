@@ -1,0 +1,9 @@
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/bin/Debug/netstandard2.0/ContarClickDataBinding.deps.json
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/bin/Debug/netstandard2.0/ContarClickDataBinding.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/bin/Debug/netstandard2.0/ContarClickDataBinding.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/obj/Debug/netstandard2.0/ContarClickDataBinding.csprojResolveAssemblyReference.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/obj/Debug/netstandard2.0/ContarClickDataBinding.csproj.CoreCompileInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/obj/Debug/netstandard2.0/ContarClickDataBinding.AssemblyInfoInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/obj/Debug/netstandard2.0/ContarClickDataBinding.AssemblyInfo.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/obj/Debug/netstandard2.0/ContarClickDataBinding.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarClickDataBinding/ContarClickDataBinding/obj/Debug/netstandard2.0/ContarClickDataBinding.pdb

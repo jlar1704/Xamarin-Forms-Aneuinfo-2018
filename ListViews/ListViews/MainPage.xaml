@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ListViews" x:Class="ListViews.MainPage" Title="Listado de Empleados">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <StackLayout Padding="30, 0">
+        <ActivityIndicator IsRunning="{Binding IsRunning}" IsVisible="{Binding IsRunning}" Color="Black" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Button Text="Agregar Nuevo Empleado Aleatorio" Command="{Binding NuevoEmpleadoCommand}" IsVisible="{Binding IsVisibleElements}"/> 
+        </StackLayout>
+
+        <StackLayout Padding="10, 0">
+        <ListView  x:Name="MyListView" CachingStrategy="RecycleElement" ItemSelected="OnItemSelected" IsVisible="{Binding IsVisibleElements}">     
+            <ListView.ItemTemplate >
+                <DataTemplate>
+                   <ViewCell>      
+                     <ContentView Padding="5">
+                        <StackLayout Orientation="Horizontal">             
+                           <Image Source="{Binding Image}" HeightRequest="70" WidthRequest="70" Aspect="AspectFill"/>
+                              <StackLayout>
+                                        <Label Text="{Binding Nombre}" FontSize="16" VerticalOptions="StartAndExpand" />
+                                        <Label Text="{Binding Profesion}" FontSize="8" VerticalOptions="CenterAndExpand">
+                                        <Label.Triggers>
+                                        <DataTrigger TargetType="Label" Binding="{Binding Sueldo}" Value="0">
+                                                <Setter Property="TextColor" Value="Red" />
+                                        </DataTrigger>
+                                        </Label.Triggers>                                           
+                                        </Label>
+                              </StackLayout>
+                        </StackLayout>       
+                     </ContentView>
+                   </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>

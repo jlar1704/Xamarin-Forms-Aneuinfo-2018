@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E77606AF-17DC-424C-89BF-336DE51E7871}|Default">
+  <MonoDevelop.Ide.ItemProperties.BehaviorsAndTrigers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54C089F7-A343-4E0D-9835-1D40C5D031F2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BehaviorsAndTrigers/MainPage.xaml">
+    <Files>
+      <File FileName="BehaviorsAndTrigers.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="BehaviorsAndTrigers/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="25" Column="1" />
+      <File FileName="BehaviorsAndTrigers/MainPage.xaml" Line="19" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BehaviorsAndTrigers.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>

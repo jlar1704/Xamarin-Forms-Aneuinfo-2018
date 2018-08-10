@@ -1,0 +1,13 @@
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/bin/Debug/netstandard2.0/PrismSeries.deps.json
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/bin/Debug/netstandard2.0/PrismSeries.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/bin/Debug/netstandard2.0/PrismSeries.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/bin/Debug/netstandard2.0/Xamarin.iOS.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.csproj.CoreCompileInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.App.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.Views.MainPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.Views.SeriesListPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.AssemblyInfoInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.AssemblyInfo.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/PrismSeries/PrismSeries/PrismSeries/obj/Debug/netstandard2.0/PrismSeries.pdb

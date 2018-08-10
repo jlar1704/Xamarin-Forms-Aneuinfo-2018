@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.ContarBotonPresionado">
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
+  <application android:label="ContarBotonPresionado.Android" android:name="android.app.Application" android:allowBackup="true">
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.ContarBotonPresionado.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

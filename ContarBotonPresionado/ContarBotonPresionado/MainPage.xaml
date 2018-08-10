@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ContarBotonPresionado" x:Class="ContarBotonPresionado.MainPage">
+    <StackLayout Padding="30">
+        <!-- Place new controls here -->
+        <Label Text="Practica 1 - Curso Xamarin Forms CrossPlattForm - Uneinfo" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <DatePicker x:Name="Fecha" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Slider Value="20" Minimum="20" Maximum="60" x:Name="SliderTamano" ValueChanged="CambiandoTamano"/>
+        <Entry Placeholder="Introduzca su Nombre" x:Name="Nombre" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Label x:Name="Label1" Text="No me han presionado! Me siento bien" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Button Text="Presioname" x:Name="Presioname" Clicked="PresionameEvento" HorizontalOptions="Center"/>
+    </StackLayout>
+</ContentPage>

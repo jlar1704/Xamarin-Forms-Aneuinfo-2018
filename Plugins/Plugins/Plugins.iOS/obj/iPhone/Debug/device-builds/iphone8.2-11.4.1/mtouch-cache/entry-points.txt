@@ -1,0 +1,367 @@
+Function=xamarin_timezone_get_data
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=list_add_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_add_primitive
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_add_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_add_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_set_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_set_primitive
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_set_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_set_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_insert_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_insert_primitive
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_insert_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_insert_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_get_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_get_primitive
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_get_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_get_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_find_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_find_primitive
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_find_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_find_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_erase
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_clear
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_size
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_destroy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_add_notification_callback
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_move
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_get_is_valid
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_get_thread_safe_reference
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=list_snapshot
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_is_valid
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_row_index
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_destroy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_timestamp_ticks
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_timestamp_ticks
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_nullable_timestamp_ticks
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_link
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_link
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_clear_link
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_list
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_null
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_bool
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_bool
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_nullable_bool
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_int64
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_add_int64
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_int64
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_nullable_int64
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_float
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_float
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_nullable_float
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_double
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_double
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_nullable_double
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_set_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_remove_row
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_equals_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_backlinks
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_backlinks_for_type
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_thread_safe_reference
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_add_notification_callback
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_get_backlink_count
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_binary_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_binary_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_string_contains
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_string_starts_with
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_string_ends_with
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_string_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_string_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_string_like
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_bool_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_bool_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_int_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_int_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_int_less
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_int_less_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_int_greater
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_int_greater_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_long_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_long_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_long_less
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_long_less_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_long_greater
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_long_greater_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_float_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_float_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_float_less
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_float_less_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_float_greater
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_float_greater_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_double_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_double_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_double_less
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_double_less_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_double_greater
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_double_greater_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_timestamp_ticks_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_timestamp_ticks_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_timestamp_ticks_less
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_timestamp_ticks_less_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_timestamp_ticks_greater
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_timestamp_ticks_greater_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_object_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_null_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_null_not_equal
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_find
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_find_next
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_get_column_index
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_not
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_group_begin
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_group_end
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_or
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_destroy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_count
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_create_results
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=query_create_sorted_results
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_is_same_internal_results
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_destroy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_primitive
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_string
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_binary
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_count
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_clear
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_add_notification_callback
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_query
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_is_valid
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_thread_safe_reference
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_snapshot
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=results_get_filtered_results
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_open
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_set_managed_state_handle
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_get_managed_state_handle
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_destroy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_close_realm
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_begin_transaction
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_commit_transaction
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_cancel_transaction
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_is_in_transaction
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_refresh
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_get_table
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_is_same_instance
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_get_schema_version
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_compact
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_resolve_object_reference
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_resolve_list_reference
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_resolve_query_reference
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_write_copy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_create_object
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_create_object_int_unique
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_create_object_string_unique
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_get_schema
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_install_callbacks
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=shared_realm_has_changed
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=table_count_all
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=table_unbind
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=table_get_column_index
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=table_create_results
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=table_create_sorted_results
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_for_string_primarykey
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_for_int_primarykey
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_for_null_primarykey
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=delete_pointer
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=realm_reset_for_testing
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=realm_install_eventloop_callbacks
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=thread_safe_reference_destroy
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=object_destroy_notificationtoken
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Realm.dll
+Function=mono_pmip

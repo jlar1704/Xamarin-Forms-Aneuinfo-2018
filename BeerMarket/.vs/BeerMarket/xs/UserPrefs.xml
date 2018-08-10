@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C5762F51-68F5-4CF0-B19A-BF90D4B9F9E5}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.BeerMarket.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeerMarket/BeerMarket.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="BeerMarket/BeerMarket/Views/BeerDetailsPage.xaml" Line="17" Column="15" />
+      <File FileName="BeerMarket/BeerMarket.iOS/AppDelegate.cs" Line="11" Column="25" />
+      <File FileName="BeerMarket/BeerMarket.iOS/Entitlements.plist" />
+      <File FileName="BeerMarket/BeerMarket.iOS/Main.cs" Line="6" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BeerMarket.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.d682a1d208e2e5a33ab04195ed2b5a29bd6d9e27" automaticSigning="False" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

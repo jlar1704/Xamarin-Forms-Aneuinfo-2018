@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2E3316A3-1DDB-4EBD-A8C2-93CF4033BE47}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListViews.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViews/ModelView/BusinessLogic.cs">
+    <Files>
+      <File FileName="ListViews/ModelView/BusinessLogic.cs" Line="21" Column="10" />
+      <File FileName="ListViews/MainPage.xaml" Line="36" Column="15" />
+      <File FileName="ListViews/MainPage.xaml.cs" Line="21" Column="33" />
+      <File FileName="ListViews/App.xaml.cs" Line="12" Column="35" />
+      <File FileName="ListViews/ModelView/DetailPage.xaml.cs" Line="12" Column="13" />
+      <File FileName="ListViews/ModelView/DetailPage.xaml" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListViews.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54C089F7-A343-4E0D-9835-1D40C5D031F2" />
+  <MultiItemStartupConfigurations />
+</Properties>

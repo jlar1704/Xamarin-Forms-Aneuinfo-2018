@@ -1,0 +1,9 @@
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/bin/Release/netstandard2.0/ContarBotonPresionado.deps.json
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/bin/Release/netstandard2.0/ContarBotonPresionado.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/bin/Release/netstandard2.0/ContarBotonPresionado.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/obj/Release/netstandard2.0/ContarBotonPresionado.csprojResolveAssemblyReference.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/obj/Release/netstandard2.0/ContarBotonPresionado.csproj.CoreCompileInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/obj/Release/netstandard2.0/ContarBotonPresionado.AssemblyInfoInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/obj/Release/netstandard2.0/ContarBotonPresionado.AssemblyInfo.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/obj/Release/netstandard2.0/ContarBotonPresionado.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ContarBotonPresionado/ContarBotonPresionado/obj/Release/netstandard2.0/ContarBotonPresionado.pdb

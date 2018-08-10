@@ -1,0 +1,29 @@
+Function=xamarin_timezone_get_data
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/BeerMarket/BeerMarket/BeerMarket.iOS/obj/iPhone/Debug/device-builds/iphone8.2-11.4.1/mtouch-cache/Link/System.dll
+Function=mono_pmip

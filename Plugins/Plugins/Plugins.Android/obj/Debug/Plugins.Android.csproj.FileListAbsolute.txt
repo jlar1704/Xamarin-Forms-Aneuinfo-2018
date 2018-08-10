@@ -1,0 +1,5 @@
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.Android/obj/Debug/Plugins.Android.csprojResolveAssemblyReference.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/Plugins/Plugins/Plugins.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll

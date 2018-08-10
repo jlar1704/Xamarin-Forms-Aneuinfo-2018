@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{993014BA-091A-464F-BAC5-E82AAA797B43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContarBotonPresionado/App.xaml.cs">
+    <Files>
+      <File FileName="ContarBotonPresionado/App.xaml.cs" Line="33" Column="1" />
+      <File FileName="ContarBotonPresionado/MainPage.xaml.cs" Line="16" Column="35" />
+      <File FileName="ContarBotonPresionado/MainPage.xaml" Line="12" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContarBotonPresionado.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ContarBotonPresionado.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54C089F7-A343-4E0D-9835-1D40C5D031F2" automaticSigning="False" />
+</Properties>

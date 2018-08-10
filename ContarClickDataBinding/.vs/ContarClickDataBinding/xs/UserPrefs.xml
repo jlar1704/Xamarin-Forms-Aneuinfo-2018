@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{50323528-A668-4B81-A862-53707366525F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContarClickDataBinding/MainPage.xaml">
+    <Files>
+      <File FileName="ContarClickDataBinding/MainPage.xaml" Line="10" Column="15" />
+      <File FileName="ContarClickDataBinding/MainPage.xaml.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContarClickDataBinding.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.ContarClickDataBinding.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54C089F7-A343-4E0D-9835-1D40C5D031F2" />
+  <MultiItemStartupConfigurations />
+</Properties>

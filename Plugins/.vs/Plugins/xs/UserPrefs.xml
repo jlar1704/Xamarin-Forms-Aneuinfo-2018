@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{FE1A7351-8C31-41F1-BD8F-61B0B45867A6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Plugins.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Plugins/Plugins/ViewModels/MapPageViewModel.cs">
+    <Files>
+      <File FileName="Plugins/Plugins/Views/MapPage.xaml.cs" Line="13" Column="10" />
+      <File FileName="Plugins/Plugins/ViewModels/MapPageViewModel.cs" Line="91" Column="58" />
+      <File FileName="Plugins/Plugins/Views/MapPage.xaml" Line="13" Column="15" />
+      <File FileName="Plugins/Plugins/ViewModels/LocationListPageViewModel.cs" Line="80" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" ActiveRuntime="Mono 5.10.1.57" />
+  <MonoDevelop.Ide.ItemProperties.Plugins.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

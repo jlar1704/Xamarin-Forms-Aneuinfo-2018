@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="{Binding Title}"
+             x:Class="BeerMarket.Views.BeerDetailsPage">
+    <StackLayout Margin="30, 30">
+            <StackLayout Orientation="Vertical" Padding="10, 0"> 
+                <Image Margin="100, 0" Source="{Binding GetBeer.ImageUrl}" HeightRequest="150" WidthRequest="300" HorizontalOptions="Center" Aspect="AspectFill"/>
+                <Label Text="Name:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding GetBeer.Name}" FontSize="Medium" FontAttributes="Bold" />
+                <Label Text="TagLine:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding GetBeer.Tagline}" FontSize="Medium" FontAttributes="Bold" />
+                <Label Text="Description:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding GetBeer.Description}" HeightRequest="150" FontSize="Medium" FontAttributes="Bold" /> 
+            </StackLayout>
+          </StackLayout>  
+</ContentPage>

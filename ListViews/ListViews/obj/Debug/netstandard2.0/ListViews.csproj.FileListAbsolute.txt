@@ -1,0 +1,13 @@
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/bin/Debug/netstandard2.0/ListViews.deps.json
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/bin/Debug/netstandard2.0/ListViews.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/bin/Debug/netstandard2.0/ListViews.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ModelView/DetailPage.xaml.g.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ListViews.csproj.CoreCompileInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ListViews.AssemblyInfoInputs.cache
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ListViews.AssemblyInfo.cs
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ListViews.dll
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ListViews.pdb
+/Users/JLAR/Desktop/Xamarin Forms - Cursos Uneinfo/ListViews/ListViews/obj/Debug/netstandard2.0/ListViews.csprojResolveAssemblyReference.cache
